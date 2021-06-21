@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@types/node": "^15.12.4",
+    "global": "^4.4.0",
+    "ts-node": "^10.0.0"
+  }
+}
